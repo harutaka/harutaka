@@ -1,4 +1,34 @@
-## Hi there 👋
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=harutaka" />
+</div>
+
+
+<!-- 2. プロフィールや連絡先を変更 -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
+- 🧑‍💻 I'm a backend engineer.
+- 🌱 I’m currently learning TypeScript!
+- 📫 How to reach me: [Twitter - @harutaka_ini](https://twitter.com/harutaka_ini)
+<br>
+
+
+<!-- 3. 好きな技術スタックに変更 -->
+<!-- ライトモード：theme=light, ダークモード：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,react,express,next,figma,python,docker,terraform,aws" />
+<br>
+
+
+<!-- 4. GitHub usernameを変更, 2箇所 -->
+<!-- ライトモード：theme=light, ダークモード：theme=vue-dark  -->
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=harutaka&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutaka&theme=vue-dark&layout=compact" />
+</div>
+
 
 <!--
 **harutaka/harutaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
